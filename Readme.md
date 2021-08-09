@@ -17,4 +17,4 @@ This is done by binding the <a href="https://documentation.devexpress.com/WPF/De
 
 <br/>
 
-
+This example is obsolete, for information on how to define conditional formatting rules in a ViewModel, refer to the following example: [How to Bind the WPF GridControl to Conditional Formatting Rules Specified in ViewModel](https://github.com/DevExpress-Examples/wpf-mvvm-how-to-bind-the-gridcontrol-to-conditional-formatting-rules-specified-in-viewmodel).
